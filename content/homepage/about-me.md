@@ -6,7 +6,8 @@ header_menu: true
 
 
 
-##### Know your contributors
+Jaya and Suneeta are your contributors to bringing Curious Cassie to life! In August 2022, they were driving through a motorway discussing how electronic devices, such as phones and tablets, are taking the "think" time away from our kids - the time when they become curious and go on explorations. That's when we planted the seed of book series to get inspired by great scientists and philosophers of our past and present to inspire the future ones ♥‿♥!
+
 
 ----
 
