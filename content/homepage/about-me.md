@@ -26,6 +26,7 @@ Suneeta feels the need for more books that sparks curiosity in the kids and enco
 
 {{<icon class="fa fa-linkedin">}}&nbsp;[suneeta-mall-a6a0507](https://www.linkedin.com/in/suneeta-mall-a6a0507/)
 {{<icon class="fa fa-twitter">}}&nbsp;[suneetamall](https://twitter.com/suneetamall)
+{{<icon class="fa fa-pencil">}}&nbsp;[blog](https://suneeta-mall.github.io)
 
 
 ----
