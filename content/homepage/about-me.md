@@ -37,3 +37,6 @@ Jaya is passionate about education and arts. She is a software developer by prof
 
 {{<icon class="fa fa-linkedin">}}&nbsp;[jaya-gajjar-39767917](https://www.linkedin.com/in/jaya-gajjar-39767917/)
 {{<icon class="fa fa-twitter">}}&nbsp;[jaya_jha](https://twitter.com/jaya_jha)
+{{<icon class="fa fa-instagram">}}&nbsp;[jayajha](https://www.instagram.com/jayajha/)
+
+
