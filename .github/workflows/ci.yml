@@ -27,10 +27,10 @@ jobs:
         run: ls -al ../
         
       - name: Build local site
-        run: hugo --minify --gc --destination ./public --source ./ --themesDir ./themes --baseURL https://curiouscassie.github.io/
+        run: hugo --minify --gc --destination ../public --source ./ --themesDir ./themes --baseURL https://curiouscassie.github.io/
         
       - name: List files
-        run: ls -al .
+        run: ls -al . && pwd
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
