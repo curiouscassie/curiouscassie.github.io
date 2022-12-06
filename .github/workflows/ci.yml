@@ -29,6 +29,9 @@ jobs:
       - name: Build local site
         run: hugo --minify --gc --destination ./public --source ./ --themesDir ./themes --baseURL https://curiouscassie.github.io/
         
+      - name: List files
+        run: ls -al ../
+                
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
         uses: peaceiris/actions-gh-pages@v3.9.0
