@@ -8,5 +8,7 @@ header_menu: true
 
 {{<icon class="fa fa-pagelines">}}&nbsp;[https://curiouscassie.github.io](https://curiouscassie.github.io)
 
+{{<icon class="fa fa-twitter">}}&nbsp;[CuriousCassie22](https://twitter.com/CuriousCassie22)
+
 
 Let us get in touch!

@@ -26,4 +26,12 @@ Curious Cassie series has following book published till date:
 
 A curious and engaging conversation between Cassie, Caleb, and their mum as they head to the beach and encounter various circumstances touching upon the phenomena of motion and gravity and are left inspired by Sir Isaac Newton.
 
+
+**Order your copy**:
+
+{{<icon class="fa fa-amazon">}}&nbsp;[Amazon.com](https://www.amazon.com/dp/B0BPQQPYD8)
+{{<icon class="fa fa-amazon">}}&nbsp;[Amazon AU](https://www.amazon.com.au/dp/B0BPQQPYD8)
+
+
+
 ---  
