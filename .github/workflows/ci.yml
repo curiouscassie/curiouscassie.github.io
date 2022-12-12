@@ -28,9 +28,12 @@ jobs:
         
       - name: Build local site
         run: hugo --minify --gc --destination ./public --source ./ --themesDir ./themes --baseURL https://curiouscassie.github.io/
-        
+
+      - name: Move google verify file out
+        run: cp ./public/html/googleb7ae45c84c746798.html ./public/
+
       - name: List files
-        run: ls -al . && ls -al ../ && pwd
+        run: ls -al . && ls -al ../ && pwd && ls -al ./public
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
